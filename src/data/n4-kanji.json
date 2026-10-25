@@ -1,0 +1,4502 @@
+{
+  "lessons": [
+    {
+      "id": "01",
+      "title": "Tata Bahasa 01",
+      "kanji": [
+        {
+          "kanji": "朝",
+          "meaning": "Pagi",
+          "words": [
+            {
+              "word": "朝日",
+              "reading": "あさひ",
+              "meaning": "Matahari Pagi"
+            },
+            {
+              "word": "毎朝",
+              "reading": "まいあさ",
+              "meaning": "Setiap Pagi"
+            },
+            {
+              "word": "朝食",
+              "reading": "ちょうしょく",
+              "meaning": "Makan Pagi"
+            },
+            {
+              "word": "今朝",
+              "reading": "けさ",
+              "meaning": "Pagi ini/Tadi Pagi"
+            }
+          ]
+        },
+        {
+          "kanji": "昼",
+          "meaning": "Siang",
+          "words": [
+            {
+              "word": "昼寝",
+              "reading": "ひるね",
+              "meaning": "Tidur Siang"
+            },
+            {
+              "word": "昼休み",
+              "reading": "ひるやすみ",
+              "meaning": "Istirahat Siang"
+            },
+            {
+              "word": "昼ご飯",
+              "reading": "ひるごはん",
+              "meaning": "Makan Siang"
+            },
+            {
+              "word": "昼食",
+              "reading": "ちゅうしょく",
+              "meaning": "Makan Siang"
+            }
+          ]
+        },
+        {
+          "kanji": "晩",
+          "meaning": "Malam",
+          "words": [
+            {
+              "word": "毎晩",
+              "reading": "まいばん",
+              "meaning": "Setiap Malam"
+            },
+            {
+              "word": "晩ご飯",
+              "reading": "ばんごはん",
+              "meaning": "Makan Malam"
+            },
+            {
+              "word": "今晩",
+              "reading": "こんばん",
+              "meaning": "Malam Ini"
+            }
+          ]
+        },
+        {
+          "kanji": "夜",
+          "meaning": "Malam",
+          "words": [
+            {
+              "word": "夜中",
+              "reading": "よなか",
+              "meaning": "Tengah Malam"
+            },
+            {
+              "word": "今夜",
+              "reading": "こんや",
+              "meaning": "Malam Ini"
+            },
+            {
+              "word": "夜空",
+              "reading": "よぞら",
+              "meaning": "Langit Malam"
+            }
+          ]
+        },
+        {
+          "kanji": "前",
+          "meaning": "Depan, Sebelum",
+          "words": [
+            {
+              "word": "前",
+              "reading": "まえ",
+              "meaning": "Depan/Sebelumnya"
+            },
+            {
+              "word": "名前",
+              "reading": "なまえ",
+              "meaning": "Nama"
+            },
+            {
+              "word": "午前",
+              "reading": "ごぜん",
+              "meaning": "A.M (Jam 00.01 - 11.59)"
+            }
+          ]
+        },
+        {
+          "kanji": "後",
+          "meaning": "Belakang, Setelah",
+          "words": [
+            {
+              "word": "後ろ",
+              "reading": "うしろ",
+              "meaning": "Belakang/Setelah"
+            },
+            {
+              "word": "後で",
+              "reading": "あとで",
+              "meaning": "Nanti"
+            },
+            {
+              "word": "午後",
+              "reading": "ごご",
+              "meaning": "P.M (Jam 12.01 - 23.59)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "Tata Bahasa 02",
+      "kanji": [
+        {
+          "kanji": "正",
+          "meaning": "Benar",
+          "words": [
+            {
+              "word": "正しい",
+              "reading": "ただしい",
+              "meaning": "Benar"
+            },
+            {
+              "word": "正月",
+              "reading": "しょうがつ",
+              "meaning": "Tahun Baru"
+            },
+            {
+              "word": "正解",
+              "reading": "せいかい",
+              "meaning": "Jawaban Benar"
+            }
+          ]
+        },
+        {
+          "kanji": "午",
+          "meaning": "Siang",
+          "words": [
+            {
+              "word": "午前",
+              "reading": "ごぜん",
+              "meaning": "A.M. (Jam 00.01 - 11.59)"
+            },
+            {
+              "word": "午後",
+              "reading": "ごご",
+              "meaning": "P.M. (Jam 12.01 - 23.59)"
+            },
+            {
+              "word": "正午",
+              "reading": "しょうご",
+              "meaning": "Tengah Hari"
+            }
+          ]
+        },
+        {
+          "kanji": "毎",
+          "meaning": "Setiap",
+          "words": [
+            {
+              "word": "毎日",
+              "reading": "まいにち",
+              "meaning": "Setiap Hari"
+            },
+            {
+              "word": "毎月",
+              "reading": "まいつき",
+              "meaning": "Setiap Bulan"
+            },
+            {
+              "word": "毎朝",
+              "reading": "まいあさ",
+              "meaning": "Setiap Pagi"
+            }
+          ]
+        },
+        {
+          "kanji": "週",
+          "meaning": "Pekan",
+          "words": [
+            {
+              "word": "今週",
+              "reading": "こんしゅう",
+              "meaning": "Pekan Ini"
+            },
+            {
+              "word": "来週",
+              "reading": "らいしゅう",
+              "meaning": "Pekan Depan"
+            },
+            {
+              "word": "先週",
+              "reading": "せんしゅう",
+              "meaning": "Pekan Lalu"
+            }
+          ]
+        },
+        {
+          "kanji": "去",
+          "meaning": "Meninggalkan",
+          "words": [
+            {
+              "word": "去る",
+              "reading": "さる",
+              "meaning": "Meninggalkan"
+            },
+            {
+              "word": "去年",
+              "reading": "きょねん",
+              "meaning": "Tahun Lalu"
+            },
+            {
+              "word": "過去",
+              "reading": "かこ",
+              "meaning": "Masa Lalu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Tata Bahasa 03",
+      "kanji": [
+        {
+          "kanji": "家",
+          "meaning": "Rumah",
+          "words": [
+            {
+              "word": "家族",
+              "reading": "かぞく",
+              "meaning": "Keluarga"
+            },
+            {
+              "word": "家具",
+              "reading": "かぐ",
+              "meaning": "Perabotan"
+            },
+            {
+              "word": "家賃",
+              "reading": "やちん",
+              "meaning": "Biaya Sewa Rumah"
+            }
+          ]
+        },
+        {
+          "kanji": "族",
+          "meaning": "Suku, Klan",
+          "words": [
+            {
+              "word": "家族",
+              "reading": "かぞく",
+              "meaning": "Keluarga"
+            },
+            {
+              "word": "水族館",
+              "reading": "すいぞくかん",
+              "meaning": "Akuarium"
+            },
+            {
+              "word": "貴族",
+              "reading": "きぞく",
+              "meaning": "Bangsawan"
+            }
+          ]
+        },
+        {
+          "kanji": "兄",
+          "meaning": "Kakak laki-laki",
+          "words": [
+            {
+              "word": "兄",
+              "reading": "あに",
+              "meaning": "Kakak laki laki (saya)"
+            },
+            {
+              "word": "お兄さん",
+              "reading": "おにいさん",
+              "meaning": "Kakak laki laki (kakak orang lain/ panggilan)"
+            },
+            {
+              "word": "兄弟",
+              "reading": "きょうだい",
+              "meaning": "Kakak-adik"
+            }
+          ]
+        },
+        {
+          "kanji": "弟",
+          "meaning": "Adik Lelaki",
+          "words": [
+            {
+              "word": "弟子",
+              "reading": "でし",
+              "meaning": "Murid, pengikut"
+            },
+            {
+              "word": "従弟",
+              "reading": "いとこ",
+              "meaning": "Sepupu"
+            },
+            {
+              "word": "弟",
+              "reading": "おとうと",
+              "meaning": "Adik Lelaki"
+            }
+          ]
+        },
+        {
+          "kanji": "姉",
+          "meaning": "Kakak Perempuan",
+          "words": [
+            {
+              "word": "姉",
+              "reading": "あね",
+              "meaning": "Kakak perempuan (saya)"
+            },
+            {
+              "word": "お姉さん",
+              "reading": "おねえさん",
+              "meaning": "Kakak perempuan (orang lain / panggilan)"
+            },
+            {
+              "word": "姉妹",
+              "reading": "しまい",
+              "meaning": "Kakak-adik perempuan"
+            }
+          ]
+        },
+        {
+          "kanji": "妹",
+          "meaning": "Adik Perempuan",
+          "words": [
+            {
+              "word": "姉妹",
+              "reading": "しまい",
+              "meaning": "Kakak-adik perempuan"
+            },
+            {
+              "word": "従妹",
+              "reading": "いとこ",
+              "meaning": "Sepupu"
+            },
+            {
+              "word": "妹",
+              "reading": "いもうと",
+              "meaning": "Adik Perempuan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "title": "Tata Bahasa 04",
+      "kanji": [
+        {
+          "kanji": "夫",
+          "meaning": "Suami",
+          "words": [
+            {
+              "word": "夫",
+              "reading": "おっと",
+              "meaning": "Suami"
+            },
+            {
+              "word": "夫婦",
+              "reading": "ふうふ",
+              "meaning": "Suami-Istri"
+            },
+            {
+              "word": "丈夫",
+              "reading": "じょうぶ",
+              "meaning": "Kokoh"
+            }
+          ]
+        },
+        {
+          "kanji": "妻",
+          "meaning": "Istri",
+          "words": [
+            {
+              "word": "妻",
+              "reading": "つま",
+              "meaning": "Istri"
+            },
+            {
+              "word": "夫妻",
+              "reading": "ふさい",
+              "meaning": "Suami-Istri"
+            },
+            {
+              "word": "先妻",
+              "reading": "せんさい",
+              "meaning": "Mantan Istri"
+            }
+          ]
+        },
+        {
+          "kanji": "主",
+          "meaning": "Utama, Pemilik",
+          "words": [
+            {
+              "word": "主人",
+              "reading": "しゅじん",
+              "meaning": "Suami/Majikan"
+            },
+            {
+              "word": "家主",
+              "reading": "やぬし",
+              "meaning": "Pemilik Rumah"
+            },
+            {
+              "word": "主婦",
+              "reading": "しゅふ",
+              "meaning": "Ibu Rumah Tangga"
+            }
+          ]
+        },
+        {
+          "kanji": "奥",
+          "meaning": "Dalam",
+          "words": [
+            {
+              "word": "奥",
+              "reading": "おく",
+              "meaning": "Bagian Dalam"
+            },
+            {
+              "word": "奥さん",
+              "reading": "おくさん",
+              "meaning": "Istri (orang lain)"
+            }
+          ]
+        },
+        {
+          "kanji": "私",
+          "meaning": "Saya, Pribadi",
+          "words": [
+            {
+              "word": "私立",
+              "reading": "しりつ",
+              "meaning": "Swasta"
+            },
+            {
+              "word": "私用",
+              "reading": "しよう",
+              "meaning": "Kegunaan Pribadi"
+            },
+            {
+              "word": "私物",
+              "reading": "しぶつ",
+              "meaning": "Properti Pribadi"
+            }
+          ]
+        },
+        {
+          "kanji": "王",
+          "meaning": "Raja",
+          "words": [
+            {
+              "word": "王様",
+              "reading": "おうさま",
+              "meaning": "Raja"
+            },
+            {
+              "word": "王子",
+              "reading": "おうじ",
+              "meaning": "Pangeran"
+            },
+            {
+              "word": "王女",
+              "reading": "おうじょ",
+              "meaning": "Putri"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "title": "Tata Bahasa 05",
+      "kanji": [
+        {
+          "kanji": "様",
+          "meaning": "Penampilan, Sikap",
+          "words": [
+            {
+              "word": "王様",
+              "reading": "おうさま",
+              "meaning": "Raja"
+            },
+            {
+              "word": "神様",
+              "reading": "かみさま",
+              "meaning": "Dewa/Tuhan"
+            },
+            {
+              "word": "様々",
+              "reading": "さまざま",
+              "meaning": "Bermacam-macam"
+            }
+          ]
+        },
+        {
+          "kanji": "才",
+          "meaning": "Jenius",
+          "words": [
+            {
+              "word": "天才",
+              "reading": "てんさい",
+              "meaning": "Jenius"
+            },
+            {
+              "word": "才能",
+              "reading": "さいのう",
+              "meaning": "Bakat"
+            }
+          ]
+        },
+        {
+          "kanji": "赤",
+          "meaning": "Merah",
+          "words": [
+            {
+              "word": "赤ちゃん",
+              "reading": "あかちゃん",
+              "meaning": "Bayi"
+            },
+            {
+              "word": "赤道",
+              "reading": "せきどう",
+              "meaning": "Khatulistiwa"
+            },
+            {
+              "word": "赤字",
+              "reading": "あかじ",
+              "meaning": "Defisit"
+            }
+          ]
+        },
+        {
+          "kanji": "青",
+          "meaning": "Biru",
+          "words": [
+            {
+              "word": "青空",
+              "reading": "あおぞら",
+              "meaning": "Langit Biru"
+            },
+            {
+              "word": "青年",
+              "reading": "せいねん",
+              "meaning": "Pemuda"
+            },
+            {
+              "word": "青春",
+              "reading": "せいしゅん",
+              "meaning": "Masa Remaja"
+            }
+          ]
+        },
+        {
+          "kanji": "白",
+          "meaning": "Putih",
+          "words": [
+            {
+              "word": "白熊",
+              "reading": "しろくま",
+              "meaning": "Beruang kutub"
+            },
+            {
+              "word": "白鳥",
+              "reading": "はくちょう",
+              "meaning": "Angsa"
+            },
+            {
+              "word": "白米",
+              "reading": "はくまい",
+              "meaning": "Beras Putih"
+            }
+          ]
+        },
+        {
+          "kanji": "黒",
+          "meaning": "Hitam",
+          "words": [
+            {
+              "word": "黒",
+              "reading": "くろ",
+              "meaning": "Hitam"
+            },
+            {
+              "word": "黒板",
+              "reading": "こくばん",
+              "meaning": "Papan Tulis"
+            },
+            {
+              "word": "真っ黒",
+              "reading": "まっくろ",
+              "meaning": "Hitam Pekat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "title": "Tata Bahasa 06",
+      "kanji": [
+        {
+          "kanji": "銀",
+          "meaning": "Perak",
+          "words": [
+            {
+              "word": "銀",
+              "reading": "ぎん",
+              "meaning": "Perak"
+            },
+            {
+              "word": "銀色",
+              "reading": "ぎんいろ",
+              "meaning": "Warna Perak"
+            },
+            {
+              "word": "銀行",
+              "reading": "ぎんこう",
+              "meaning": "Bank"
+            }
+          ]
+        },
+        {
+          "kanji": "色",
+          "meaning": "Warna",
+          "words": [
+            {
+              "word": "色",
+              "reading": "いろ",
+              "meaning": "Warna"
+            },
+            {
+              "word": "色々",
+              "reading": "いろいろ",
+              "meaning": "Macam - Macam"
+            },
+            {
+              "word": "景色",
+              "reading": "けしき",
+              "meaning": "Pemandangan"
+            }
+          ]
+        },
+        {
+          "kanji": "黄",
+          "meaning": "Kuning",
+          "words": [
+            {
+              "word": "黄色",
+              "reading": "きいろ",
+              "meaning": "Warna Kuning"
+            },
+            {
+              "word": "黄金",
+              "reading": "おうごん",
+              "meaning": "Emas"
+            }
+          ]
+        },
+        {
+          "kanji": "緑",
+          "meaning": "Hijau",
+          "words": [
+            {
+              "word": "緑",
+              "reading": "みどり",
+              "meaning": "Hijau"
+            },
+            {
+              "word": "黄緑",
+              "reading": "きみどり",
+              "meaning": "Kuning Hijau"
+            },
+            {
+              "word": "緑茶",
+              "reading": "りょくちゃ",
+              "meaning": "Teh Hijau"
+            }
+          ]
+        },
+        {
+          "kanji": "丸",
+          "meaning": "Bulat",
+          "words": [
+            {
+              "word": "丸い",
+              "reading": "まるい",
+              "meaning": "Bulat"
+            },
+            {
+              "word": "一丸",
+              "reading": "いちがん",
+              "meaning": "Persatuan"
+            },
+            {
+              "word": "日の丸",
+              "reading": "ひのまる",
+              "meaning": "Hinomaru (Bendera Jepang)"
+            }
+          ]
+        },
+        {
+          "kanji": "玉",
+          "meaning": "Bola",
+          "words": [
+            {
+              "word": "玉ねぎ",
+              "reading": "たまねぎ",
+              "meaning": "Bawang Bombay"
+            },
+            {
+              "word": "目玉",
+              "reading": "めだま",
+              "meaning": "Bola Mata"
+            },
+            {
+              "word": "玉座",
+              "reading": "ぎょくざ",
+              "meaning": "Singgasana"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "title": "Tata Bahasa 07",
+      "kanji": [
+        {
+          "kanji": "春",
+          "meaning": "Musim Semi",
+          "words": [
+            {
+              "word": "春",
+              "reading": "はる",
+              "meaning": "Musim Semi"
+            },
+            {
+              "word": "青春",
+              "reading": "せいしゅん",
+              "meaning": "Masa Remaja"
+            }
+          ]
+        },
+        {
+          "kanji": "夏",
+          "meaning": "Musim Panas",
+          "words": [
+            {
+              "word": "夏",
+              "reading": "なつ",
+              "meaning": "Musim Panas"
+            },
+            {
+              "word": "夏休み",
+              "reading": "なつやすみ",
+              "meaning": "Liburan Musim Panas"
+            }
+          ]
+        },
+        {
+          "kanji": "秋",
+          "meaning": "Musim Gugur",
+          "words": [
+            {
+              "word": "秋",
+              "reading": "あき",
+              "meaning": "Musim Gugur"
+            },
+            {
+              "word": "秋風",
+              "reading": "あきかぜ",
+              "meaning": "Angin Musim Gugur"
+            }
+          ]
+        },
+        {
+          "kanji": "冬",
+          "meaning": "Musim Dingin",
+          "words": [
+            {
+              "word": "冬休み",
+              "reading": "ふゆやすみ",
+              "meaning": "Libur musim dingin"
+            },
+            {
+              "word": "冬眠",
+              "reading": "とうみん",
+              "meaning": "Hibernasi"
+            },
+            {
+              "word": "冬季",
+              "reading": "とうき",
+              "meaning": "Musim Dingin"
+            }
+          ]
+        },
+        {
+          "kanji": "空",
+          "meaning": "Langit",
+          "words": [
+            {
+              "word": "空",
+              "reading": "そら",
+              "meaning": "Langit"
+            },
+            {
+              "word": "青空",
+              "reading": "あおぞら",
+              "meaning": "Langit biru"
+            },
+            {
+              "word": "空気",
+              "reading": "くうき",
+              "meaning": "Udara"
+            },
+            {
+              "word": "空港",
+              "reading": "くうこう",
+              "meaning": "Bandara"
+            }
+          ]
+        },
+        {
+          "kanji": "天",
+          "meaning": "Surga",
+          "words": [
+            {
+              "word": "天気",
+              "reading": "てんき",
+              "meaning": "Cuaca"
+            },
+            {
+              "word": "天ぷら",
+              "reading": "天ぷら",
+              "meaning": "Tempura"
+            },
+            {
+              "word": "天皇",
+              "reading": "てんのう",
+              "meaning": "Kaisar Jepang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "title": "Tata Bahasa 08",
+      "kanji": [
+        {
+          "kanji": "風",
+          "meaning": "Angin",
+          "words": [
+            {
+              "word": "風車",
+              "reading": "かざぐるま",
+              "meaning": "Kincir Angin"
+            },
+            {
+              "word": "風船",
+              "reading": "ふうせん",
+              "meaning": "Balon"
+            },
+            {
+              "word": "扇風機",
+              "reading": "せんぷうき",
+              "meaning": "Kipas Angin"
+            }
+          ]
+        },
+        {
+          "kanji": "台",
+          "meaning": "Stan, Alas, Penyangga",
+          "words": [
+            {
+              "word": "台所",
+              "reading": "だいどころ",
+              "meaning": "Dapur"
+            },
+            {
+              "word": "台風",
+              "reading": "たいふう",
+              "meaning": "Angin Topan"
+            },
+            {
+              "word": "舞台",
+              "reading": "ぶたい",
+              "meaning": "Panggung"
+            }
+          ]
+        },
+        {
+          "kanji": "雲",
+          "meaning": "Awan",
+          "words": [
+            {
+              "word": "曇",
+              "reading": "くも",
+              "meaning": "Awan"
+            },
+            {
+              "word": "雨雲",
+              "reading": "あまぐも",
+              "meaning": "Awan Hujan"
+            },
+            {
+              "word": "積乱雲",
+              "reading": "せきらんうん",
+              "meaning": "Cumulonimbus"
+            }
+          ]
+        },
+        {
+          "kanji": "雪",
+          "meaning": "Salju",
+          "words": [
+            {
+              "word": "初雪",
+              "reading": "はつゆき",
+              "meaning": "Salju Pertama"
+            },
+            {
+              "word": "大雪",
+              "reading": "おおゆき",
+              "meaning": "Salju Lebat"
+            },
+            {
+              "word": "積雪",
+              "reading": "せきせつ",
+              "meaning": "Tumpukan Salju"
+            },
+            {
+              "word": "吹雪",
+              "reading": "ふぶき",
+              "meaning": "Badai Salju"
+            }
+          ]
+        },
+        {
+          "kanji": "晴",
+          "meaning": "Cerah",
+          "words": [
+            {
+              "word": "晴れる",
+              "reading": "はれる",
+              "meaning": "Cerah"
+            },
+            {
+              "word": "晴天",
+              "reading": "せいてん",
+              "meaning": "Cuaca Cerah"
+            },
+            {
+              "word": "素晴らしい",
+              "reading": "すばらしい",
+              "meaning": "Luar Biasa"
+            }
+          ]
+        },
+        {
+          "kanji": "星",
+          "meaning": "Bintang",
+          "words": [
+            {
+              "word": "星空",
+              "reading": "ほしぞら",
+              "meaning": "Langit Berbintang"
+            },
+            {
+              "word": "水星",
+              "reading": "すいせい",
+              "meaning": "Merkurius"
+            },
+            {
+              "word": "金星",
+              "reading": "きんせい",
+              "meaning": "Venus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "title": "Tata Bahasa 09",
+      "kanji": [
+        {
+          "kanji": "光",
+          "meaning": "Cahaya",
+          "words": [
+            {
+              "word": "光",
+              "reading": "ひかり",
+              "meaning": "Cahaya"
+            },
+            {
+              "word": "観光",
+              "reading": "かんこう",
+              "meaning": "Wisata"
+            },
+            {
+              "word": "光景",
+              "reading": "こうけい",
+              "meaning": "Pemandangan"
+            }
+          ]
+        },
+        {
+          "kanji": "地",
+          "meaning": "Darat, Tanah",
+          "words": [
+            {
+              "word": "地図",
+              "reading": "ちず",
+              "meaning": "Peta"
+            },
+            {
+              "word": "地球",
+              "reading": "ちきゅう",
+              "meaning": "Bumi"
+            },
+            {
+              "word": "地震",
+              "reading": "じしん",
+              "meaning": "Gempa"
+            }
+          ]
+        },
+        {
+          "kanji": "谷",
+          "meaning": "Lembah",
+          "words": [
+            {
+              "word": "谷",
+              "reading": "たに",
+              "meaning": "Lembah"
+            },
+            {
+              "word": "渋谷",
+              "reading": "しぶや",
+              "meaning": "Shibuya"
+            },
+            {
+              "word": "空谷",
+              "reading": "くうこく",
+              "meaning": "Lembah tak berpenghuni"
+            }
+          ]
+        },
+        {
+          "kanji": "自",
+          "meaning": "Diri sendiri",
+          "words": [
+            {
+              "word": "自分",
+              "reading": "じぶん",
+              "meaning": "Diri Sendiri"
+            },
+            {
+              "word": "自転車",
+              "reading": "じてんしゃ",
+              "meaning": "Sepeda"
+            },
+            {
+              "word": "自然",
+              "reading": "しぜん",
+              "meaning": "Alam"
+            }
+          ]
+        },
+        {
+          "kanji": "然",
+          "meaning": "Tentu saja",
+          "words": [
+            {
+              "word": "全然",
+              "reading": "ぜんぜん",
+              "meaning": "Sama sekali (tidak)"
+            },
+            {
+              "word": "突然",
+              "reading": "とつぜん",
+              "meaning": "Tiba-tiba"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Tata Bahasa 10",
+      "kanji": [
+        {
+          "kanji": "草",
+          "meaning": "Rumput",
+          "words": [
+            {
+              "word": "青草",
+              "reading": "あおくさ",
+              "meaning": "Rumput Muda"
+            },
+            {
+              "word": "雑草",
+              "reading": "ざっそう",
+              "meaning": "Gulma"
+            },
+            {
+              "word": "薬草",
+              "reading": "やくそう",
+              "meaning": "Tanaman Obat"
+            }
+          ]
+        },
+        {
+          "kanji": "原",
+          "meaning": "Padang, sumber",
+          "words": [
+            {
+              "word": "原因",
+              "reading": "げんいん",
+              "meaning": "Penyebab"
+            },
+            {
+              "word": "草原",
+              "reading": "そうげん",
+              "meaning": "Padang Rumput"
+            },
+            {
+              "word": "野原",
+              "reading": "のはら",
+              "meaning": "Padang, Dataran Luas"
+            }
+          ]
+        },
+        {
+          "kanji": "海",
+          "meaning": "Laut",
+          "words": [
+            {
+              "word": "海外",
+              "reading": "かいがい",
+              "meaning": "Luar Negeri"
+            },
+            {
+              "word": "海水",
+              "reading": "かいすい",
+              "meaning": "Air Laut"
+            },
+            {
+              "word": "海岸",
+              "reading": "かいがん",
+              "meaning": "Pantai"
+            }
+          ]
+        },
+        {
+          "kanji": "湖",
+          "meaning": "Danau",
+          "words": [
+            {
+              "word": "湖",
+              "reading": "みずうみ",
+              "meaning": "Danau"
+            },
+            {
+              "word": "トバ湖",
+              "reading": "トバこ",
+              "meaning": "Danau Toba"
+            }
+          ]
+        },
+        {
+          "kanji": "池",
+          "meaning": "Kolam",
+          "words": [
+            {
+              "word": "池魚",
+              "reading": "ちぎょ",
+              "meaning": "Kolam Ikan"
+            },
+            {
+              "word": "池",
+              "reading": "いけ",
+              "meaning": "Kolam"
+            },
+            {
+              "word": "電池",
+              "reading": "でんち",
+              "meaning": "Baterai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Tata Bahasa 11",
+      "kanji": [
+        {
+          "kanji": "里",
+          "meaning": "Desa",
+          "words": [
+            {
+              "word": "里人",
+              "reading": "さとびと",
+              "meaning": "Orang Desa"
+            },
+            {
+              "word": "郷里",
+              "reading": "きょうり",
+              "meaning": "Kampung halaman"
+            },
+            {
+              "word": "里",
+              "reading": "さと",
+              "meaning": "Desa"
+            }
+          ]
+        },
+        {
+          "kanji": "野",
+          "meaning": "Lapangan",
+          "words": [
+            {
+              "word": "野菜",
+              "reading": "やさい",
+              "meaning": "Sayuran"
+            },
+            {
+              "word": "野球",
+              "reading": "やきゅう",
+              "meaning": "Baseball"
+            },
+            {
+              "word": "野望",
+              "reading": "やぼう",
+              "meaning": "Ambisi"
+            }
+          ]
+        },
+        {
+          "kanji": "虫",
+          "meaning": "Serangga",
+          "words": [
+            {
+              "word": "泣き虫",
+              "reading": "なきむし",
+              "meaning": "Cengeng"
+            },
+            {
+              "word": "昆虫",
+              "reading": "こんちゅう",
+              "meaning": "Serangga"
+            },
+            {
+              "word": "虫",
+              "reading": "むし",
+              "meaning": "Serangga"
+            }
+          ]
+        },
+        {
+          "kanji": "羽",
+          "meaning": "Sayap",
+          "words": [
+            {
+              "word": "羽",
+              "reading": "はね",
+              "meaning": "Sayap"
+            },
+            {
+              "word": "手羽先",
+              "reading": "てばさき",
+              "meaning": "Sayap ayam"
+            },
+            {
+              "word": "一羽",
+              "reading": "いちわ",
+              "meaning": "Seekor (unggas)"
+            }
+          ]
+        },
+        {
+          "kanji": "馬",
+          "meaning": "Kuda",
+          "words": [
+            {
+              "word": "馬",
+              "reading": "うま",
+              "meaning": "Kuda"
+            },
+            {
+              "word": "乗馬",
+              "reading": "じょうば",
+              "meaning": "Naik Kuda"
+            },
+            {
+              "word": "競馬",
+              "reading": "けいば",
+              "meaning": "Balap Kuda"
+            }
+          ]
+        },
+        {
+          "kanji": "鳴",
+          "meaning": "Berkicau, Bersuara",
+          "words": [
+            {
+              "word": "鳴き声",
+              "reading": "なきごえ",
+              "meaning": "Tangisan, Kicauan"
+            },
+            {
+              "word": "鳴る",
+              "reading": "なる",
+              "meaning": "Berkicau"
+            },
+            {
+              "word": "雷鳴",
+              "reading": "らいめい",
+              "meaning": "Petir"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Tata Bahasa 12",
+      "kanji": [
+        {
+          "kanji": "毛",
+          "meaning": "Rambut, Bulu",
+          "words": [
+            {
+              "word": "髪の毛",
+              "reading": "かみのけ",
+              "meaning": "Rambut"
+            },
+            {
+              "word": "羽毛",
+              "reading": "うもう",
+              "meaning": "Bulu unggas"
+            },
+            {
+              "word": "毛布",
+              "reading": "もうふ",
+              "meaning": "Selimut"
+            }
+          ]
+        },
+        {
+          "kanji": "糸",
+          "meaning": "Benang",
+          "words": [
+            {
+              "word": "糸",
+              "reading": "いと",
+              "meaning": "Benang"
+            },
+            {
+              "word": "糸車",
+              "reading": "いとぐるま",
+              "meaning": "Mesin Pemintal"
+            },
+            {
+              "word": "一糸",
+              "reading": "いっし",
+              "meaning": "Sehelai Benang"
+            }
+          ]
+        },
+        {
+          "kanji": "衣",
+          "meaning": "Baju",
+          "words": [
+            {
+              "word": "衣食住",
+              "reading": "いしょくじゅう",
+              "meaning": "Sandang, Pangan, Papan"
+            },
+            {
+              "word": "衣装",
+              "reading": "いしょう",
+              "meaning": "Kostum"
+            }
+          ]
+        },
+        {
+          "kanji": "服",
+          "meaning": "Pakaian",
+          "words": [
+            {
+              "word": "洋服",
+              "reading": "ようふく",
+              "meaning": "Baju gaya barat"
+            },
+            {
+              "word": "制服",
+              "reading": "せいふく",
+              "meaning": "Seragam"
+            },
+            {
+              "word": "和服",
+              "reading": "わふく",
+              "meaning": "Baju gaya Jepang"
+            }
+          ]
+        },
+        {
+          "kanji": "洋",
+          "meaning": "Samudra, (gaya) barat",
+          "words": [
+            {
+              "word": "洋服",
+              "reading": "ようふく",
+              "meaning": "Baju gaya barat"
+            },
+            {
+              "word": "洋食",
+              "reading": "ようしょく",
+              "meaning": "Makanan ala barat"
+            },
+            {
+              "word": "大西洋",
+              "reading": "たいせいよう",
+              "meaning": "Samudra Atlantik"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Tata Bahasa 13",
+      "kanji": [
+        {
+          "kanji": "料",
+          "meaning": "Materi, Bahan, Biaya",
+          "words": [
+            {
+              "word": "材料",
+              "reading": "ざいりょう",
+              "meaning": "Bahan Makanan"
+            },
+            {
+              "word": "調味料",
+              "reading": "ちょうみりょう",
+              "meaning": "Bumbu"
+            },
+            {
+              "word": "料金",
+              "reading": "りょうきん",
+              "meaning": "Biaya"
+            }
+          ]
+        },
+        {
+          "kanji": "理",
+          "meaning": "Logika",
+          "words": [
+            {
+              "word": "料理",
+              "reading": "りょうり",
+              "meaning": "Memasak"
+            },
+            {
+              "word": "理由",
+              "reading": "りゆう",
+              "meaning": "Alasan"
+            },
+            {
+              "word": "無理",
+              "reading": "むり",
+              "meaning": "Mustahil"
+            }
+          ]
+        },
+        {
+          "kanji": "飯",
+          "meaning": "Makan, Nasi",
+          "words": [
+            {
+              "word": "朝ご飯",
+              "reading": "あさごはん",
+              "meaning": "Sarapan"
+            },
+            {
+              "word": "炒飯",
+              "reading": "チャーハン",
+              "meaning": "Nasi Goreng"
+            },
+            {
+              "word": "炊飯器",
+              "reading": "すいはんき",
+              "meaning": "Penanak Nasi"
+            }
+          ]
+        },
+        {
+          "kanji": "麦",
+          "meaning": "Gandum, Tepung",
+          "words": [
+            {
+              "word": "小麦粉",
+              "reading": "こむぎこ",
+              "meaning": "Tepung Terigu"
+            },
+            {
+              "word": "麦藁帽子",
+              "reading": "むぎわらぼうし",
+              "meaning": "Topi Jerami"
+            },
+            {
+              "word": "麦茶",
+              "reading": "むぎちゃ",
+              "meaning": "Teh Barley"
+            }
+          ]
+        },
+        {
+          "kanji": "油",
+          "meaning": "Minyak",
+          "words": [
+            {
+              "word": "油",
+              "reading": "あぶら",
+              "meaning": "Minyak"
+            },
+            {
+              "word": "醤油",
+              "reading": "しょうゆ",
+              "meaning": "Kecap Asin"
+            },
+            {
+              "word": "石油",
+              "reading": "せきゆ",
+              "meaning": "Minyak Bumi"
+            }
+          ]
+        },
+        {
+          "kanji": "酒",
+          "meaning": "Sake",
+          "words": [
+            {
+              "word": "お酒",
+              "reading": "おさけ",
+              "meaning": "Minuman beralkohol"
+            },
+            {
+              "word": "日本酒",
+              "reading": "にほんしゅ",
+              "meaning": "Sake Jepang"
+            },
+            {
+              "word": "居酒屋",
+              "reading": "いざかや",
+              "meaning": "Izakaya (bar)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Tata Bahasa 14",
+      "kanji": [
+        {
+          "kanji": "味",
+          "meaning": "Rasa",
+          "words": [
+            {
+              "word": "味",
+              "reading": "あじ",
+              "meaning": "Rasa"
+            },
+            {
+              "word": "趣味",
+              "reading": "しゅみ",
+              "meaning": "Hobi"
+            },
+            {
+              "word": "味方",
+              "reading": "みかた",
+              "meaning": "Sekutu"
+            }
+          ]
+        },
+        {
+          "kanji": "住",
+          "meaning": "Tinggal",
+          "words": [
+            {
+              "word": "住む",
+              "reading": "すむ",
+              "meaning": "Tinggal"
+            },
+            {
+              "word": "住所",
+              "reading": "じゅうしょ",
+              "meaning": "Alamat"
+            },
+            {
+              "word": "住宅",
+              "reading": "じゅうたく",
+              "meaning": "Tempat Tinggal"
+            }
+          ]
+        },
+        {
+          "kanji": "所",
+          "meaning": "Tempat, Bagian",
+          "words": [
+            {
+              "word": "台所",
+              "reading": "だいどころ",
+              "meaning": "Dapur"
+            },
+            {
+              "word": "長所",
+              "reading": "ちょうしょ",
+              "meaning": "Kelebihan"
+            },
+            {
+              "word": "短所",
+              "reading": "たんしょ",
+              "meaning": "Kekurangan"
+            }
+          ]
+        },
+        {
+          "kanji": "都",
+          "meaning": "Metropolis",
+          "words": [
+            {
+              "word": "都",
+              "reading": "みやこ",
+              "meaning": "Kota Metropilitan"
+            },
+            {
+              "word": "京都",
+              "reading": "きょうと",
+              "meaning": "Kyoto"
+            },
+            {
+              "word": "都会",
+              "reading": "とかい",
+              "meaning": "Kota"
+            }
+          ]
+        },
+        {
+          "kanji": "道",
+          "meaning": "Jalan",
+          "words": [
+            {
+              "word": "近道",
+              "reading": "ちかみち",
+              "meaning": "Jalan Pintas"
+            },
+            {
+              "word": "水道",
+              "reading": "すいどう",
+              "meaning": "Keran"
+            },
+            {
+              "word": "道路",
+              "reading": "どうろ",
+              "meaning": "Jalan"
+            }
+          ]
+        },
+        {
+          "kanji": "府",
+          "meaning": "Prefektur, Pemerintah",
+          "words": [
+            {
+              "word": "京都府",
+              "reading": "きょうとふ",
+              "meaning": "Prefektur Kyoto"
+            },
+            {
+              "word": "大阪府",
+              "reading": "おおさかふ",
+              "meaning": "Prefektur Osaka"
+            },
+            {
+              "word": "政府",
+              "reading": "せいふ",
+              "meaning": "Pemerintah"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Tata Bahasa 15",
+      "kanji": [
+        {
+          "kanji": "県",
+          "meaning": "Prefektur",
+          "words": [
+            {
+              "word": "県庁",
+              "reading": "けんちょう",
+              "meaning": "Kantor Prefektur"
+            },
+            {
+              "word": "長野県",
+              "reading": "ながのけん",
+              "meaning": "Prefektur Nagano"
+            }
+          ]
+        },
+        {
+          "kanji": "市",
+          "meaning": "Kota, Pasar",
+          "words": [
+            {
+              "word": "市場",
+              "reading": "いちば",
+              "meaning": "Pasar"
+            },
+            {
+              "word": "市民",
+              "reading": "しみん",
+              "meaning": "Warga kota"
+            },
+            {
+              "word": "市",
+              "reading": "し",
+              "meaning": "Kota"
+            }
+          ]
+        },
+        {
+          "kanji": "京",
+          "meaning": "Ibu Kota",
+          "words": [
+            {
+              "word": "東京",
+              "reading": "とうきょう",
+              "meaning": "Tokyo"
+            },
+            {
+              "word": "北京",
+              "reading": "ぺきん",
+              "meaning": "Beijing"
+            }
+          ]
+        },
+        {
+          "kanji": "区",
+          "meaning": "Wilayah, Distrik",
+          "words": [
+            {
+              "word": "目黒区",
+              "reading": "めぐろく",
+              "meaning": "Distrik Meguro"
+            },
+            {
+              "word": "中野区",
+              "reading": "なかのく",
+              "meaning": "Distrik Nakano"
+            }
+          ]
+        },
+        {
+          "kanji": "村",
+          "meaning": "Desa",
+          "words": [
+            {
+              "word": "村人",
+              "reading": "むらびと",
+              "meaning": "Penduduk desa"
+            },
+            {
+              "word": "村長",
+              "reading": "そんちょう",
+              "meaning": "Kepala desa"
+            },
+            {
+              "word": "村",
+              "reading": "むら",
+              "meaning": "Desa"
+            }
+          ]
+        },
+        {
+          "kanji": "番",
+          "meaning": "Giliran, Nomor",
+          "words": [
+            {
+              "word": "番号",
+              "reading": "ばんごう",
+              "meaning": "Nomor"
+            },
+            {
+              "word": "番組",
+              "reading": "ばんぐみ",
+              "meaning": "Program televisi"
+            },
+            {
+              "word": "順番",
+              "reading": "じゅんばん",
+              "meaning": "Urutan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Tata Bahasa 16",
+      "kanji": [
+        {
+          "kanji": "号",
+          "meaning": "Nomor",
+          "words": [
+            {
+              "word": "番号",
+              "reading": "ばんごう",
+              "meaning": "Nomor"
+            },
+            {
+              "word": "信号",
+              "reading": "しんごう",
+              "meaning": "Lampu Lalu Lintas"
+            }
+          ]
+        },
+        {
+          "kanji": "国",
+          "meaning": "Negara",
+          "words": [
+            {
+              "word": "国",
+              "reading": "くに",
+              "meaning": "Negara"
+            },
+            {
+              "word": "外国人",
+              "reading": "がいこくじん",
+              "meaning": "Orang Asing"
+            },
+            {
+              "word": "国語",
+              "reading": "こくご",
+              "meaning": "Bahasa Negara"
+            }
+          ]
+        },
+        {
+          "kanji": "紙",
+          "meaning": "Kertas",
+          "words": [
+            {
+              "word": "手紙",
+              "reading": "てがみ",
+              "meaning": "Surat"
+            },
+            {
+              "word": "折り紙",
+              "reading": "おりがみ",
+              "meaning": "Origami"
+            },
+            {
+              "word": "白紙",
+              "reading": "はくし",
+              "meaning": "Kertas Putih"
+            }
+          ]
+        },
+        {
+          "kanji": "店",
+          "meaning": "Toko",
+          "words": [
+            {
+              "word": "喫茶店",
+              "reading": "きっさてん",
+              "meaning": "Kedai Kopi"
+            },
+            {
+              "word": "書店",
+              "reading": "しょてん",
+              "meaning": "Toko Buku"
+            },
+            {
+              "word": "店長",
+              "reading": "てんちょう",
+              "meaning": "Kepala Toko"
+            }
+          ]
+        },
+        {
+          "kanji": "客",
+          "meaning": "Tamu, Pelanggan",
+          "words": [
+            {
+              "word": "お客様",
+              "reading": "おきゃくさま",
+              "meaning": "Tamu"
+            },
+            {
+              "word": "客席",
+              "reading": "きゃくせき",
+              "meaning": "Kursi Tamu"
+            }
+          ]
+        },
+        {
+          "kanji": "売",
+          "meaning": "Jual",
+          "words": [
+            {
+              "word": "商売",
+              "reading": "しょうばい",
+              "meaning": "Bisnis"
+            },
+            {
+              "word": "売り切れ",
+              "reading": "うりきれ",
+              "meaning": "Terjual Habis"
+            },
+            {
+              "word": "売上",
+              "reading": "うりあげ",
+              "meaning": "Penjualan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Tata Bahasa 17",
+      "kanji": [
+        {
+          "kanji": "品",
+          "meaning": "Barang",
+          "words": [
+            {
+              "word": "品物",
+              "reading": "しなもの",
+              "meaning": "Barang Dagangan"
+            },
+            {
+              "word": "食品",
+              "reading": "しょくひん",
+              "meaning": "Produk Makanan"
+            },
+            {
+              "word": "薬品",
+              "reading": "やくひん",
+              "meaning": "Produk Obat-obatan"
+            }
+          ]
+        },
+        {
+          "kanji": "薬",
+          "meaning": "Obat",
+          "words": [
+            {
+              "word": "目薬",
+              "reading": "めぐすり",
+              "meaning": "Obat Tetes Mata"
+            },
+            {
+              "word": "薬指",
+              "reading": "くすりゆび",
+              "meaning": "Jari Manis"
+            },
+            {
+              "word": "薬局",
+              "reading": "やっきょく",
+              "meaning": "Apotek"
+            }
+          ]
+        },
+        {
+          "kanji": "待",
+          "meaning": "Menunggu",
+          "words": [
+            {
+              "word": "待つ",
+              "reading": "まつ",
+              "meaning": "Menunggu"
+            },
+            {
+              "word": "待ち合わせ",
+              "reading": "まちあわせ",
+              "meaning": "Janji Temu"
+            },
+            {
+              "word": "招待",
+              "reading": "しょうたい",
+              "meaning": "Undang"
+            }
+          ]
+        },
+        {
+          "kanji": "合",
+          "meaning": "Cocok, Pas",
+          "words": [
+            {
+              "word": "間に合う",
+              "reading": "まにあう",
+              "meaning": "Sempat, Keburu"
+            },
+            {
+              "word": "合格",
+              "reading": "ごうかく",
+              "meaning": "Lulus"
+            },
+            {
+              "word": "似合う",
+              "reading": "にあう",
+              "meaning": "Cocok"
+            }
+          ]
+        },
+        {
+          "kanji": "計",
+          "meaning": "Mengukur",
+          "words": [
+            {
+              "word": "時計",
+              "reading": "とけい",
+              "meaning": "Jam"
+            },
+            {
+              "word": "計画",
+              "reading": "けいかく",
+              "meaning": "Rencana"
+            },
+            {
+              "word": "計算",
+              "reading": "けいさん",
+              "meaning": "Perhitungan"
+            }
+          ]
+        },
+        {
+          "kanji": "辺",
+          "meaning": "Sekitar",
+          "words": [
+            {
+              "word": "辺り",
+              "reading": "あたり",
+              "meaning": "Sekitar"
+            },
+            {
+              "word": "海辺",
+              "reading": "うみべ",
+              "meaning": "Pesisir"
+            },
+            {
+              "word": "この辺",
+              "reading": "このへん",
+              "meaning": "Sekitar Sini"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Tata Bahasa 18",
+      "kanji": [
+        {
+          "kanji": "交",
+          "meaning": "Persimpangan",
+          "words": [
+            {
+              "word": "交差点",
+              "reading": "こうさてん",
+              "meaning": "Persimpangan"
+            },
+            {
+              "word": "交番",
+              "reading": "こうばん",
+              "meaning": "Pos Polisi"
+            },
+            {
+              "word": "外交",
+              "reading": "がいこう",
+              "meaning": "Diplomasi"
+            }
+          ]
+        },
+        {
+          "kanji": "通",
+          "meaning": "Melewati",
+          "words": [
+            {
+              "word": "交通",
+              "reading": "こうつう",
+              "meaning": "Lalu Lintas, Transportasi"
+            },
+            {
+              "word": "通う",
+              "reading": "かよう",
+              "meaning": "Pergi (Pulang-pergi)"
+            },
+            {
+              "word": "普通",
+              "reading": "ふつう",
+              "meaning": "Biasa"
+            }
+          ]
+        },
+        {
+          "kanji": "荷",
+          "meaning": "Beban, Muatan",
+          "words": [
+            {
+              "word": "荷物",
+              "reading": "にもつ",
+              "meaning": "Barang Bawaan"
+            },
+            {
+              "word": "手荷物",
+              "reading": "てにもつ",
+              "meaning": "Tas Bawaan"
+            }
+          ]
+        },
+        {
+          "kanji": "送",
+          "meaning": "Mengirim",
+          "words": [
+            {
+              "word": "送る",
+              "reading": "おくる",
+              "meaning": "Mengirim"
+            },
+            {
+              "word": "送料",
+              "reading": "そうりょう",
+              "meaning": "Ongkos Kirim"
+            },
+            {
+              "word": "送別会",
+              "reading": "そうべつかい",
+              "meaning": "Pesta Perpisahan"
+            }
+          ]
+        },
+        {
+          "kanji": "宅",
+          "meaning": "Rumah",
+          "words": [
+            {
+              "word": "お宅",
+              "reading": "おたく",
+              "meaning": "Rumah Anda"
+            },
+            {
+              "word": "帰宅",
+              "reading": "きたく",
+              "meaning": "Pulang"
+            },
+            {
+              "word": "住宅",
+              "reading": "じゅうたく",
+              "meaning": "Tempat tinggal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Tata Bahasa 19",
+      "kanji": [
+        {
+          "kanji": "止",
+          "meaning": "Berhenti",
+          "words": [
+            {
+              "word": "止まる",
+              "reading": "とまる",
+              "meaning": "Berhenti"
+            },
+            {
+              "word": "止める",
+              "reading": "とめる",
+              "meaning": "Memberhentikan"
+            },
+            {
+              "word": "禁止",
+              "reading": "きんし",
+              "meaning": "Larangan"
+            }
+          ]
+        },
+        {
+          "kanji": "急",
+          "meaning": "Bergegas",
+          "words": [
+            {
+              "word": "急ぐ",
+              "reading": "いそぐ",
+              "meaning": "Bergegas"
+            },
+            {
+              "word": "急に",
+              "reading": "きゅうに",
+              "meaning": "Tiba-tiba"
+            },
+            {
+              "word": "緊急",
+              "reading": "きんきゅう",
+              "meaning": "Darurat"
+            }
+          ]
+        },
+        {
+          "kanji": "特",
+          "meaning": "Istimewa",
+          "words": [
+            {
+              "word": "特技",
+              "reading": "とくぎ",
+              "meaning": "Keahlian Khusus"
+            },
+            {
+              "word": "特別",
+              "reading": "とくべつ",
+              "meaning": "Spesial/Istimewa"
+            },
+            {
+              "word": "特に",
+              "reading": "とくに",
+              "meaning": "Terutama"
+            }
+          ]
+        },
+        {
+          "kanji": "鉄",
+          "meaning": "Besi",
+          "words": [
+            {
+              "word": "鉄",
+              "reading": "てつ",
+              "meaning": "Besi"
+            },
+            {
+              "word": "地下鉄",
+              "reading": "ちかてつ",
+              "meaning": "Kereta Bawah Tanah"
+            }
+          ]
+        },
+        {
+          "kanji": "船",
+          "meaning": "Perahu",
+          "words": [
+            {
+              "word": "船",
+              "reading": "ふね",
+              "meaning": "Perahu"
+            },
+            {
+              "word": "風船",
+              "reading": "ふうせん",
+              "meaning": "Balon"
+            },
+            {
+              "word": "船酔い",
+              "reading": "ふなよい",
+              "meaning": "Mabuk Laut"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "title": "Tata Bahasa 20",
+      "kanji": [
+        {
+          "kanji": "部",
+          "meaning": "Bagian",
+          "words": [
+            {
+              "word": "全部",
+              "reading": "ぜんぶ",
+              "meaning": "Semua"
+            },
+            {
+              "word": "部屋",
+              "reading": "へや",
+              "meaning": "Kamar"
+            },
+            {
+              "word": "部下",
+              "reading": "ぶか",
+              "meaning": "Bawahan"
+            }
+          ]
+        },
+        {
+          "kanji": "屋",
+          "meaning": "Toko",
+          "words": [
+            {
+              "word": "本屋",
+              "reading": "ほんや",
+              "meaning": "Toko Buku"
+            },
+            {
+              "word": "屋上",
+              "reading": "おくじょう",
+              "meaning": "Atap"
+            },
+            {
+              "word": "居酒屋",
+              "reading": "いざかや",
+              "meaning": "Izakaya"
+            }
+          ]
+        },
+        {
+          "kanji": "教",
+          "meaning": "Mengajar",
+          "words": [
+            {
+              "word": "教える",
+              "reading": "おしえる",
+              "meaning": "Memberi tahu"
+            },
+            {
+              "word": "教師",
+              "reading": "きょうし",
+              "meaning": "Guru"
+            },
+            {
+              "word": "教育",
+              "reading": "きょういく",
+              "meaning": "Pendidikan"
+            }
+          ]
+        },
+        {
+          "kanji": "室",
+          "meaning": "Ruang",
+          "words": [
+            {
+              "word": "教室",
+              "reading": "きょうしつ",
+              "meaning": "Ruang Kelas"
+            },
+            {
+              "word": "会議室",
+              "reading": "かいぎしつ",
+              "meaning": "Ruang Rapat"
+            },
+            {
+              "word": "研究室",
+              "reading": "けんきゅうしつ",
+              "meaning": "Laboratorium"
+            }
+          ]
+        },
+        {
+          "kanji": "会",
+          "meaning": "Bertemu",
+          "words": [
+            {
+              "word": "会う",
+              "reading": "あう",
+              "meaning": "Bertemu"
+            },
+            {
+              "word": "会社",
+              "reading": "かいしゃ",
+              "meaning": "Perusahaan"
+            },
+            {
+              "word": "社会",
+              "reading": "しゃかい",
+              "meaning": "Masyarakat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "title": "Tata Bahasa 21",
+      "kanji": [
+        {
+          "kanji": "社",
+          "meaning": "Perusahaan",
+          "words": [
+            {
+              "word": "社長",
+              "reading": "しゃちょう",
+              "meaning": "Direktur/CEO"
+            },
+            {
+              "word": "入社",
+              "reading": "にゅうしゃ",
+              "meaning": "Masuk perusahaan"
+            },
+            {
+              "word": "神社",
+              "reading": "じんじゃ",
+              "meaning": "Kuil shinto"
+            }
+          ]
+        },
+        {
+          "kanji": "駅",
+          "meaning": "Stasiun",
+          "words": [
+            {
+              "word": "駅",
+              "reading": "えき",
+              "meaning": "Stasiun"
+            },
+            {
+              "word": "駅前",
+              "reading": "えきまえ",
+              "meaning": "Depan stasiun"
+            },
+            {
+              "word": "駅員",
+              "reading": "えきいん",
+              "meaning": "Staff stasiun"
+            }
+          ]
+        },
+        {
+          "kanji": "工",
+          "meaning": "Produksi",
+          "words": [
+            {
+              "word": "工場",
+              "reading": "こうじょう",
+              "meaning": "Pabrik"
+            },
+            {
+              "word": "人工",
+              "reading": "じんこう",
+              "meaning": "Artifisial"
+            },
+            {
+              "word": "不細工",
+              "reading": "ぶさいく",
+              "meaning": "Jelek"
+            }
+          ]
+        },
+        {
+          "kanji": "場",
+          "meaning": "Tempat",
+          "words": [
+            {
+              "word": "会場",
+              "reading": "かいじょう",
+              "meaning": "Aula"
+            },
+            {
+              "word": "場所",
+              "reading": "ばしょ",
+              "meaning": "Tempat"
+            },
+            {
+              "word": "市場",
+              "reading": "いちば",
+              "meaning": "Pasar"
+            }
+          ]
+        },
+        {
+          "kanji": "病",
+          "meaning": "Penyakit",
+          "words": [
+            {
+              "word": "病院",
+              "reading": "びょういん",
+              "meaning": "Rumah sakit"
+            },
+            {
+              "word": "病気",
+              "reading": "びょうき",
+              "meaning": "Sakit/Penyakit"
+            },
+            {
+              "word": "病",
+              "reading": "やまい",
+              "meaning": "Penyakit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "title": "Tata Bahasa 22",
+      "kanji": [
+        {
+          "kanji": "院",
+          "meaning": "Institusi",
+          "words": [
+            {
+              "word": "入院",
+              "reading": "にゅういん",
+              "meaning": "Opname"
+            },
+            {
+              "word": "退院",
+              "reading": "たいいん",
+              "meaning": "Keluar Rumah Sakit"
+            },
+            {
+              "word": "大学院",
+              "reading": "だいがくいん",
+              "meaning": "Pendidikan S2"
+            }
+          ]
+        },
+        {
+          "kanji": "公",
+          "meaning": "Publik",
+          "words": [
+            {
+              "word": "公園",
+              "reading": "こうえん",
+              "meaning": "Taman"
+            },
+            {
+              "word": "公務員",
+              "reading": "こうむいん",
+              "meaning": "PNS"
+            },
+            {
+              "word": "主人公",
+              "reading": "しゅじんこう",
+              "meaning": "Pemeran Utama"
+            }
+          ]
+        },
+        {
+          "kanji": "園",
+          "meaning": "Taman",
+          "words": [
+            {
+              "word": "動物園",
+              "reading": "どうぶつえん",
+              "meaning": "Kebun Binatang"
+            },
+            {
+              "word": "幼稚園",
+              "reading": "ようちえん",
+              "meaning": "Taman Kanak-kanak"
+            },
+            {
+              "word": "遊園地",
+              "reading": "ゆうえんち",
+              "meaning": "Taman Bermain"
+            }
+          ]
+        },
+        {
+          "kanji": "図",
+          "meaning": "Peta",
+          "words": [
+            {
+              "word": "地図",
+              "reading": "ちず",
+              "meaning": "Peta"
+            },
+            {
+              "word": "合図",
+              "reading": "あいず",
+              "meaning": "Tanda"
+            },
+            {
+              "word": "図書館",
+              "reading": "としょかん",
+              "meaning": "Perpustakaan"
+            }
+          ]
+        },
+        {
+          "kanji": "館",
+          "meaning": "Bangunan",
+          "words": [
+            {
+              "word": "映画館",
+              "reading": "えいがかん",
+              "meaning": "Bioskop"
+            },
+            {
+              "word": "大使館",
+              "reading": "たいしかん",
+              "meaning": "Kedubes"
+            },
+            {
+              "word": "博物館",
+              "reading": "はくぶつかん",
+              "meaning": "Museum"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "title": "Tata Bahasa 23",
+      "kanji": [
+        {
+          "kanji": "映",
+          "meaning": "Proyeksi",
+          "words": [
+            {
+              "word": "映画",
+              "reading": "えいが",
+              "meaning": "Film"
+            },
+            {
+              "word": "映る",
+              "reading": "うつる",
+              "meaning": "Memantul"
+            },
+            {
+              "word": "映える",
+              "reading": "はえる",
+              "meaning": "Bersinar, Menarik"
+            }
+          ]
+        },
+        {
+          "kanji": "画",
+          "meaning": "Mencoret, Menggambar",
+          "words": [
+            {
+              "word": "計画",
+              "reading": "けいかく",
+              "meaning": "Rencana"
+            },
+            {
+              "word": "漫画",
+              "reading": "まんが",
+              "meaning": "Komik"
+            },
+            {
+              "word": "画家",
+              "reading": "がか",
+              "meaning": "Pelukis"
+            }
+          ]
+        },
+        {
+          "kanji": "勉",
+          "meaning": "Belajar, Tekun",
+          "words": [
+            {
+              "word": "勉強",
+              "reading": "べんきょう",
+              "meaning": "Belajar"
+            },
+            {
+              "word": "勤勉",
+              "reading": "きんべん",
+              "meaning": "Bekerja Keras"
+            }
+          ]
+        },
+        {
+          "kanji": "強",
+          "meaning": "Kuat",
+          "words": [
+            {
+              "word": "強い",
+              "reading": "つよい",
+              "meaning": "Kuat"
+            },
+            {
+              "word": "強風",
+              "reading": "きょうふう",
+              "meaning": "Angin Kuat"
+            },
+            {
+              "word": "最強",
+              "reading": "さいきょう",
+              "meaning": "Terkuat"
+            }
+          ]
+        },
+        {
+          "kanji": "宿",
+          "meaning": "Penginapan",
+          "words": [
+            {
+              "word": "宿題",
+              "reading": "しゅくだい",
+              "meaning": "PR"
+            },
+            {
+              "word": "宿",
+              "reading": "やど",
+              "meaning": "Penginapan"
+            },
+            {
+              "word": "下宿",
+              "reading": "げしゅく",
+              "meaning": "Kostan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "title": "Tata Bahasa 24",
+      "kanji": [
+        {
+          "kanji": "題",
+          "meaning": "Topik",
+          "words": [
+            {
+              "word": "問題",
+              "reading": "もんだい",
+              "meaning": "Masalah, soal"
+            },
+            {
+              "word": "話題",
+              "reading": "わだい",
+              "meaning": "Topik Pembicaraan"
+            },
+            {
+              "word": "食べ放題",
+              "reading": "たべほうだい",
+              "meaning": "All-you-can-eat"
+            }
+          ]
+        },
+        {
+          "kanji": "質",
+          "meaning": "Kualitas",
+          "words": [
+            {
+              "word": "質問",
+              "reading": "しつもん",
+              "meaning": "Pertanyaan"
+            },
+            {
+              "word": "音質",
+              "reading": "おんしつ",
+              "meaning": "Kualitas Suara"
+            },
+            {
+              "word": "人質",
+              "reading": "ひとじち",
+              "meaning": "Sandera"
+            }
+          ]
+        },
+        {
+          "kanji": "問",
+          "meaning": "Pertanyaan",
+          "words": [
+            {
+              "word": "質問",
+              "reading": "しつもん",
+              "meaning": "Pertanyaan"
+            },
+            {
+              "word": "問題",
+              "reading": "もんだい",
+              "meaning": "Masalah"
+            }
+          ]
+        },
+        {
+          "kanji": "試",
+          "meaning": "Mencoba, Ujian",
+          "words": [
+            {
+              "word": "試合",
+              "reading": "しあい",
+              "meaning": "Pertandingan"
+            },
+            {
+              "word": "試験",
+              "reading": "しけん",
+              "meaning": "Ujian"
+            }
+          ]
+        },
+        {
+          "kanji": "験",
+          "meaning": "Verifikasi, Pengujian",
+          "words": [
+            {
+              "word": "経験",
+              "reading": "けいけん",
+              "meaning": "Pengalaman"
+            },
+            {
+              "word": "実験",
+              "reading": "じっけん",
+              "meaning": "Eksperimen"
+            },
+            {
+              "word": "受験",
+              "reading": "じゅけん",
+              "meaning": "Mengikuti ujian"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "title": "Tata Bahasa 25",
+      "kanji": [
+        {
+          "kanji": "答",
+          "meaning": "Menjawab",
+          "words": [
+            {
+              "word": "答える",
+              "reading": "こたえる",
+              "meaning": "Menjawab"
+            },
+            {
+              "word": "解答",
+              "reading": "かいとう",
+              "meaning": "Jawaban, solusi"
+            },
+            {
+              "word": "正答",
+              "reading": "せいとう",
+              "meaning": "Jawaban benar"
+            }
+          ]
+        },
+        {
+          "kanji": "考",
+          "meaning": "Berpikir",
+          "words": [
+            {
+              "word": "考える",
+              "reading": "かんがえる",
+              "meaning": "Berpikir"
+            },
+            {
+              "word": "参考",
+              "reading": "さんこう",
+              "meaning": "Referensi"
+            },
+            {
+              "word": "選考",
+              "reading": "せんこう",
+              "meaning": "Seleksi"
+            }
+          ]
+        },
+        {
+          "kanji": "字",
+          "meaning": "Huruf",
+          "words": [
+            {
+              "word": "漢字",
+              "reading": "かんじ",
+              "meaning": "Kanji"
+            },
+            {
+              "word": "数字",
+              "reading": "すうじ",
+              "meaning": "Angka"
+            },
+            {
+              "word": "名字",
+              "reading": "みょうじ",
+              "meaning": "Nama Keluarga (marga)"
+            }
+          ]
+        },
+        {
+          "kanji": "文",
+          "meaning": "Kalimat",
+          "words": [
+            {
+              "word": "文字",
+              "reading": "もじ",
+              "meaning": "Huruf"
+            },
+            {
+              "word": "文法",
+              "reading": "ぶんぽう",
+              "meaning": "Tata Bahasa"
+            },
+            {
+              "word": "文句",
+              "reading": "もんく",
+              "meaning": "Keluhan"
+            }
+          ]
+        },
+        {
+          "kanji": "漢",
+          "meaning": "China",
+          "words": [
+            {
+              "word": "漢字",
+              "reading": "かんじ",
+              "meaning": "Kanji (Huruf China)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "title": "Tata Bahasa 26",
+      "kanji": [
+        {
+          "kanji": "数",
+          "meaning": "Jumlah",
+          "words": [
+            {
+              "word": "数える",
+              "reading": "かぞえる",
+              "meaning": "Menghitung"
+            },
+            {
+              "word": "数学",
+              "reading": "すうがく",
+              "meaning": "Matematika"
+            },
+            {
+              "word": "偶数",
+              "reading": "ぐうすう",
+              "meaning": "Angka Genap"
+            }
+          ]
+        },
+        {
+          "kanji": "英",
+          "meaning": "Inggris",
+          "words": [
+            {
+              "word": "英語",
+              "reading": "えいご",
+              "meaning": "Bahasa Inggris"
+            },
+            {
+              "word": "英雄",
+              "reading": "えいゆう",
+              "meaning": "Pahlawan"
+            }
+          ]
+        },
+        {
+          "kanji": "語",
+          "meaning": "Bahasa, Bercerita",
+          "words": [
+            {
+              "word": "言語",
+              "reading": "げんご",
+              "meaning": "Bahasa"
+            },
+            {
+              "word": "国語",
+              "reading": "こくご",
+              "meaning": "Bahasa Nasional"
+            },
+            {
+              "word": "物語",
+              "reading": "ものがたり",
+              "meaning": "Cerita"
+            }
+          ]
+        },
+        {
+          "kanji": "化",
+          "meaning": "Berubah",
+          "words": [
+            {
+              "word": "文化",
+              "reading": "ぶんか",
+              "meaning": "Budaya"
+            },
+            {
+              "word": "化学",
+              "reading": "かがく",
+              "meaning": "Kimia"
+            },
+            {
+              "word": "化粧",
+              "reading": "けしょう",
+              "meaning": "Make-up"
+            }
+          ]
+        },
+        {
+          "kanji": "育",
+          "meaning": "Merawat",
+          "words": [
+            {
+              "word": "教育",
+              "reading": "きょういく",
+              "meaning": "Pendidikan"
+            },
+            {
+              "word": "育つ",
+              "reading": "そだつ",
+              "meaning": "Tumbuh"
+            },
+            {
+              "word": "育てる",
+              "reading": "そだてる",
+              "meaning": "Menumbuhkan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "title": "Tata Bahasa 27",
+      "kanji": [
+        {
+          "kanji": "研",
+          "meaning": "Penelitian, Mengasah",
+          "words": [
+            {
+              "word": "研ぐ",
+              "reading": "とぐ",
+              "meaning": "Mengasah"
+            },
+            {
+              "word": "研究",
+              "reading": "けんきゅう",
+              "meaning": "Penelitian"
+            },
+            {
+              "word": "研修",
+              "reading": "けんしゅう",
+              "meaning": "Pelatihan"
+            }
+          ]
+        },
+        {
+          "kanji": "究",
+          "meaning": "Riset, Studi, Investigasi",
+          "words": [
+            {
+              "word": "研究",
+              "reading": "けんきゅう",
+              "meaning": "Penelitian"
+            },
+            {
+              "word": "研究室",
+              "reading": "けんきゅうしつ",
+              "meaning": "Laboratorium"
+            }
+          ]
+        },
+        {
+          "kanji": "医",
+          "meaning": "Dokter",
+          "words": [
+            {
+              "word": "医者",
+              "reading": "いしゃ",
+              "meaning": "Dokter"
+            },
+            {
+              "word": "医学",
+              "reading": "いがく",
+              "meaning": "Kedokteran"
+            },
+            {
+              "word": "医薬品",
+              "reading": "いやくひん",
+              "meaning": "Obat-obatan"
+            }
+          ]
+        },
+        {
+          "kanji": "科",
+          "meaning": "Bagian, Departemen",
+          "words": [
+            {
+              "word": "科学",
+              "reading": "かがく",
+              "meaning": "Sains"
+            },
+            {
+              "word": "学科",
+              "reading": "がっか",
+              "meaning": "Jurusan"
+            },
+            {
+              "word": "教科書",
+              "reading": "きょうかしょ",
+              "meaning": "Buku Pelajaran"
+            }
+          ]
+        },
+        {
+          "kanji": "政",
+          "meaning": "Politik",
+          "words": [
+            {
+              "word": "政府",
+              "reading": "せいふ",
+              "meaning": "Pemerintah"
+            },
+            {
+              "word": "政党",
+              "reading": "せいとう",
+              "meaning": "Partai Politik"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "title": "Tata Bahasa 28",
+      "kanji": [
+        {
+          "kanji": "治",
+          "meaning": "Memerintah, sembuh",
+          "words": [
+            {
+              "word": "治る",
+              "reading": "なおる",
+              "meaning": "Sembuh"
+            },
+            {
+              "word": "治す",
+              "reading": "なおす",
+              "meaning": "Menyembuhkan"
+            },
+            {
+              "word": "治療",
+              "reading": "ちりょう",
+              "meaning": "Perawatan Medis"
+            }
+          ]
+        },
+        {
+          "kanji": "経",
+          "meaning": "Berlalu",
+          "words": [
+            {
+              "word": "経験",
+              "reading": "けいけん",
+              "meaning": "Pengalaman"
+            },
+            {
+              "word": "経済",
+              "reading": "けいざい",
+              "meaning": "Ekonomi"
+            },
+            {
+              "word": "経営",
+              "reading": "けいえい",
+              "meaning": "Manajemen"
+            }
+          ]
+        },
+        {
+          "kanji": "済",
+          "meaning": "Selesai",
+          "words": [
+            {
+              "word": "済む",
+              "reading": "すむ",
+              "meaning": "Selesai"
+            },
+            {
+              "word": "経済",
+              "reading": "けいざい",
+              "meaning": "Ekonomi"
+            }
+          ]
+        },
+        {
+          "kanji": "歴",
+          "meaning": "Sejarah",
+          "words": [
+            {
+              "word": "歴史",
+              "reading": "れきし",
+              "meaning": "Sejarah"
+            },
+            {
+              "word": "学歴",
+              "reading": "がくれき",
+              "meaning": "Background Pendidikan"
+            },
+            {
+              "word": "履歴書",
+              "reading": "りれきしょ",
+              "meaning": "CV"
+            }
+          ]
+        },
+        {
+          "kanji": "史",
+          "meaning": "Berlalu, Sejarah",
+          "words": [
+            {
+              "word": "歴史",
+              "reading": "れきし",
+              "meaning": "Sejarah"
+            },
+            {
+              "word": "日本史",
+              "reading": "にほんし",
+              "meaning": "Sejarah Jepang"
+            },
+            {
+              "word": "世界史",
+              "reading": "せかいし",
+              "meaning": "Sejarah Dunia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "title": "Tata Bahasa 29",
+      "kanji": [
+        {
+          "kanji": "運",
+          "meaning": "Mengangkut, beruntung",
+          "words": [
+            {
+              "word": "運動",
+              "reading": "うんどう",
+              "meaning": "Olahraga"
+            },
+            {
+              "word": "運転",
+              "reading": "うんてん",
+              "meaning": "Menyetir"
+            },
+            {
+              "word": "運命",
+              "reading": "うんめい",
+              "meaning": "Takdir"
+            }
+          ]
+        },
+        {
+          "kanji": "動",
+          "meaning": "Bergerak",
+          "words": [
+            {
+              "word": "動く",
+              "reading": "うごく",
+              "meaning": "Bergerak"
+            },
+            {
+              "word": "運動",
+              "reading": "うんどう",
+              "meaning": "Olahraga"
+            },
+            {
+              "word": "自動車",
+              "reading": "じどうしゃ",
+              "meaning": "Kendaraan bermesin"
+            }
+          ]
+        },
+        {
+          "kanji": "泳",
+          "meaning": "Berenang",
+          "words": [
+            {
+              "word": "泳ぐ",
+              "reading": "およぐ",
+              "meaning": "Berenang"
+            },
+            {
+              "word": "水泳",
+              "reading": "すいえい",
+              "meaning": "Berenang"
+            },
+            {
+              "word": "平泳ぎ",
+              "reading": "ひらおよぎ",
+              "meaning": "Gaya Dada"
+            }
+          ]
+        },
+        {
+          "kanji": "旅",
+          "meaning": "Perjalanan",
+          "words": [
+            {
+              "word": "旅",
+              "reading": "たび",
+              "meaning": "Perjalanan"
+            },
+            {
+              "word": "旅行",
+              "reading": "りょこう",
+              "meaning": "Tamasya"
+            },
+            {
+              "word": "旅券",
+              "reading": "りょけん",
+              "meaning": "Passport"
+            }
+          ]
+        },
+        {
+          "kanji": "世",
+          "meaning": "Dunia",
+          "words": [
+            {
+              "word": "世界",
+              "reading": "せかい",
+              "meaning": "Dunia"
+            },
+            {
+              "word": "世話",
+              "reading": "せわ",
+              "meaning": "Mengurus, merawat"
+            },
+            {
+              "word": "世代",
+              "reading": "せだい",
+              "meaning": "Generasi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "title": "Tata Bahasa 30",
+      "kanji": [
+        {
+          "kanji": "界",
+          "meaning": "Dunia",
+          "words": [
+            {
+              "word": "世界",
+              "reading": "せかい",
+              "meaning": "Dunia"
+            },
+            {
+              "word": "限界",
+              "reading": "げんかい",
+              "meaning": "Batas"
+            },
+            {
+              "word": "境界",
+              "reading": "きょうかい",
+              "meaning": "Batasan"
+            }
+          ]
+        },
+        {
+          "kanji": "練",
+          "meaning": "Latihan, Praktik",
+          "words": [
+            {
+              "word": "練習",
+              "reading": "れんしゅう",
+              "meaning": "Latihan"
+            },
+            {
+              "word": "訓練",
+              "reading": "くんれん",
+              "meaning": "Melatih"
+            },
+            {
+              "word": "試練",
+              "reading": "しれん",
+              "meaning": "Ujian"
+            }
+          ]
+        },
+        {
+          "kanji": "習",
+          "meaning": "Belajar",
+          "words": [
+            {
+              "word": "練習",
+              "reading": "れんしゅう",
+              "meaning": "Latihan"
+            },
+            {
+              "word": "習う",
+              "reading": "ならう",
+              "meaning": "Belajar"
+            },
+            {
+              "word": "復習",
+              "reading": "ふくしゅう",
+              "meaning": "Review materi"
+            }
+          ]
+        },
+        {
+          "kanji": "写",
+          "meaning": "Menyalin",
+          "words": [
+            {
+              "word": "写真",
+              "reading": "しゃしん",
+              "meaning": "Foto"
+            },
+            {
+              "word": "写す",
+              "reading": "うつす",
+              "meaning": "Salin"
+            }
+          ]
+        },
+        {
+          "kanji": "真",
+          "meaning": "Kebenaran",
+          "words": [
+            {
+              "word": "写真",
+              "reading": "しゃしん",
+              "meaning": "Foto"
+            },
+            {
+              "word": "真ん中",
+              "reading": "まんなか",
+              "meaning": "Di tengah-tengah"
+            },
+            {
+              "word": "真実",
+              "reading": "しんじつ",
+              "meaning": "Kebenaran"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "title": "Tata Bahasa 31",
+      "kanji": [
+        {
+          "kanji": "楽",
+          "meaning": "Menyenangkan",
+          "words": [
+            {
+              "word": "楽しい",
+              "reading": "たのしい",
+              "meaning": "Menyenangkan"
+            },
+            {
+              "word": "音楽",
+              "reading": "おんがく",
+              "meaning": "Musik"
+            },
+            {
+              "word": "楽器",
+              "reading": "がっき",
+              "meaning": "Alat Musik"
+            }
+          ]
+        },
+        {
+          "kanji": "声",
+          "meaning": "Suara",
+          "words": [
+            {
+              "word": "声",
+              "reading": "こえ",
+              "meaning": "Suara (makhluk hidup)"
+            },
+            {
+              "word": "音声",
+              "reading": "おんせい",
+              "meaning": "Suara"
+            },
+            {
+              "word": "かけ声",
+              "reading": "かけごえ",
+              "meaning": "Suara panggilan"
+            }
+          ]
+        },
+        {
+          "kanji": "歌",
+          "meaning": "Lagu",
+          "words": [
+            {
+              "word": "歌",
+              "reading": "うた",
+              "meaning": "Lagu"
+            },
+            {
+              "word": "歌う",
+              "reading": "うたう",
+              "meaning": "Bernyanyi"
+            },
+            {
+              "word": "歌手",
+              "reading": "かしゅ",
+              "meaning": "Penyanyi"
+            }
+          ]
+        },
+        {
+          "kanji": "集",
+          "meaning": "Berkumpul",
+          "words": [
+            {
+              "word": "集める",
+              "reading": "あつめる",
+              "meaning": "Mengumpulkan"
+            },
+            {
+              "word": "集中",
+              "reading": "しゅうちゅう",
+              "meaning": "Fokus"
+            },
+            {
+              "word": "募集",
+              "reading": "ぼしゅう",
+              "meaning": "Merekrut"
+            }
+          ]
+        },
+        {
+          "kanji": "作",
+          "meaning": "Membuat",
+          "words": [
+            {
+              "word": "作る",
+              "reading": "つくる",
+              "meaning": "Membuat"
+            },
+            {
+              "word": "作家",
+              "reading": "さっか",
+              "meaning": "Penulis"
+            },
+            {
+              "word": "作品",
+              "reading": "さくひん",
+              "meaning": "Karya"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "title": "Tata Bahasa 32",
+      "kanji": [
+        {
+          "kanji": "使",
+          "meaning": "Pakai",
+          "words": [
+            {
+              "word": "使う",
+              "reading": "つかう",
+              "meaning": "Menggunakan"
+            },
+            {
+              "word": "大使館",
+              "reading": "たいしかん",
+              "meaning": "Kedubes"
+            },
+            {
+              "word": "天使",
+              "reading": "てんし",
+              "meaning": "Malaikat"
+            }
+          ]
+        },
+        {
+          "kanji": "思",
+          "meaning": "Berpikir",
+          "words": [
+            {
+              "word": "思う",
+              "reading": "おもう",
+              "meaning": "Berpikir"
+            },
+            {
+              "word": "意思",
+              "reading": "いし",
+              "meaning": "Niat, Kesadaran"
+            },
+            {
+              "word": "思い出",
+              "reading": "おもいで",
+              "meaning": "Kenangan"
+            }
+          ]
+        },
+        {
+          "kanji": "持",
+          "meaning": "Memiliki, Membawa",
+          "words": [
+            {
+              "word": "持つ",
+              "reading": "もつ",
+              "meaning": "Memegang, mempunyai"
+            },
+            {
+              "word": "気持ち",
+              "reading": "きもち",
+              "meaning": "Perasaan"
+            },
+            {
+              "word": "金持ち",
+              "reading": "かねもち",
+              "meaning": "Kaya"
+            }
+          ]
+        },
+        {
+          "kanji": "当",
+          "meaning": "Kena",
+          "words": [
+            {
+              "word": "当たる",
+              "reading": "あたる",
+              "meaning": "Kena"
+            },
+            {
+              "word": "お弁当",
+              "reading": "おべんとう",
+              "meaning": "Bekal"
+            },
+            {
+              "word": "本当",
+              "reading": "ほんとう",
+              "meaning": "Kebenaran"
+            }
+          ]
+        },
+        {
+          "kanji": "知",
+          "meaning": "Mengetahui",
+          "words": [
+            {
+              "word": "知る",
+              "reading": "しる",
+              "meaning": "Tahu, Mengerti"
+            },
+            {
+              "word": "お知らせ",
+              "reading": "おしらせ",
+              "meaning": "Pengumuman"
+            },
+            {
+              "word": "知恵",
+              "reading": "ちえ",
+              "meaning": "Ilmu pengetahuan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "title": "Tata Bahasa 33",
+      "kanji": [
+        {
+          "kanji": "働",
+          "meaning": "Kerja",
+          "words": [
+            {
+              "word": "働く",
+              "reading": "はたらく",
+              "meaning": "Bekerja"
+            },
+            {
+              "word": "労働",
+              "reading": "ろうどう",
+              "meaning": "Tenaga kerja"
+            },
+            {
+              "word": "共働き",
+              "reading": "ともばたらき",
+              "meaning": "Suami-istri bekerja"
+            }
+          ]
+        },
+        {
+          "kanji": "始",
+          "meaning": "Mulai",
+          "words": [
+            {
+              "word": "始める",
+              "reading": "はじめる",
+              "meaning": "Memulai"
+            },
+            {
+              "word": "始発",
+              "reading": "しはつ",
+              "meaning": "Kereta pertama"
+            },
+            {
+              "word": "始まり",
+              "reading": "はじまり",
+              "meaning": "Awal"
+            }
+          ]
+        },
+        {
+          "kanji": "終",
+          "meaning": "Selesai",
+          "words": [
+            {
+              "word": "終わる",
+              "reading": "おわる",
+              "meaning": "Selesai"
+            },
+            {
+              "word": "最終",
+              "reading": "さいしゅう",
+              "meaning": "Akhir, Terakhir"
+            },
+            {
+              "word": "終了",
+              "reading": "しゅうりょう",
+              "meaning": "Selesai, berakhir"
+            }
+          ]
+        },
+        {
+          "kanji": "乗",
+          "meaning": "Berkendara",
+          "words": [
+            {
+              "word": "乗る",
+              "reading": "のる",
+              "meaning": "Naik"
+            },
+            {
+              "word": "乗り換える",
+              "reading": "のりかえる",
+              "meaning": "Transit, oper"
+            },
+            {
+              "word": "乗り物",
+              "reading": "のりもの",
+              "meaning": "Kendaraan"
+            }
+          ]
+        },
+        {
+          "kanji": "降",
+          "meaning": "Turun",
+          "words": [
+            {
+              "word": "降りる",
+              "reading": "おりる",
+              "meaning": "Turun"
+            },
+            {
+              "word": "降る",
+              "reading": "ふる",
+              "meaning": "Turun (hujan, salju)"
+            },
+            {
+              "word": "降水",
+              "reading": "こうすい",
+              "meaning": "Hujan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "title": "Tata Bahasa 34",
+      "kanji": [
+        {
+          "kanji": "開",
+          "meaning": "Membuka",
+          "words": [
+            {
+              "word": "開ける",
+              "reading": "あける",
+              "meaning": "Membuka"
+            },
+            {
+              "word": "開店",
+              "reading": "かいてん",
+              "meaning": "Pembukaan toko"
+            },
+            {
+              "word": "開発",
+              "reading": "かいはつ",
+              "meaning": "Pengembangan"
+            }
+          ]
+        },
+        {
+          "kanji": "閉",
+          "meaning": "Tutup",
+          "words": [
+            {
+              "word": "閉める",
+              "reading": "しめる",
+              "meaning": "Menutup"
+            },
+            {
+              "word": "閉まる",
+              "reading": "しまる",
+              "meaning": "Tertutup"
+            },
+            {
+              "word": "閉店",
+              "reading": "へいてん",
+              "meaning": "Penutupan toko"
+            }
+          ]
+        },
+        {
+          "kanji": "発",
+          "meaning": "Lepas, berangkat",
+          "words": [
+            {
+              "word": "出発",
+              "reading": "しゅっぱつ",
+              "meaning": "Berangkat"
+            },
+            {
+              "word": "発音",
+              "reading": "はつおん",
+              "meaning": "Pelafalan"
+            },
+            {
+              "word": "発見",
+              "reading": "はっけん",
+              "meaning": "Penemuan"
+            }
+          ]
+        },
+        {
+          "kanji": "着",
+          "meaning": "Tiba, Memakai",
+          "words": [
+            {
+              "word": "着く",
+              "reading": "つく",
+              "meaning": "Sampai"
+            },
+            {
+              "word": "着る",
+              "reading": "きる",
+              "meaning": "Memakai"
+            },
+            {
+              "word": "到着する",
+              "reading": "とうちゃく",
+              "meaning": "Sampai"
+            }
+          ]
+        },
+        {
+          "kanji": "走",
+          "meaning": "Lari",
+          "words": [
+            {
+              "word": "走る",
+              "reading": "はしる",
+              "meaning": "Lari"
+            },
+            {
+              "word": "競走",
+              "reading": "きょうそう",
+              "meaning": "Balapan"
+            },
+            {
+              "word": "走者",
+              "reading": "そうしゃ",
+              "meaning": "Pelari"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "title": "Tata Bahasa 35",
+      "kanji": [
+        {
+          "kanji": "歩",
+          "meaning": "Berjalan kaki",
+          "words": [
+            {
+              "word": "歩く",
+              "reading": "あるく",
+              "meaning": "Berjalan kaki"
+            },
+            {
+              "word": "散歩",
+              "reading": "さんぽ",
+              "meaning": "Jalan-jalan"
+            },
+            {
+              "word": "一歩",
+              "reading": "いっぽ",
+              "meaning": "Satu langkah"
+            }
+          ]
+        },
+        {
+          "kanji": "近",
+          "meaning": "Dekat",
+          "words": [
+            {
+              "word": "近い",
+              "reading": "ちかい",
+              "meaning": "Dekat"
+            },
+            {
+              "word": "近く",
+              "reading": "ちかく",
+              "meaning": "Dekat"
+            },
+            {
+              "word": "近所",
+              "reading": "きんじょ",
+              "meaning": "Tetangga"
+            }
+          ]
+        },
+        {
+          "kanji": "遠",
+          "meaning": "Jauh",
+          "words": [
+            {
+              "word": "遠い",
+              "reading": "とおい",
+              "meaning": "Jauh"
+            },
+            {
+              "word": "遠く",
+              "reading": "とおく",
+              "meaning": "Jauh"
+            },
+            {
+              "word": "遠足",
+              "reading": "えんそく",
+              "meaning": "Trip, Piknik"
+            }
+          ]
+        },
+        {
+          "kanji": "重",
+          "meaning": "Berat",
+          "words": [
+            {
+              "word": "重い",
+              "reading": "おもい",
+              "meaning": "Berat"
+            },
+            {
+              "word": "体重",
+              "reading": "たいじゅう",
+              "meaning": "Berat badan"
+            },
+            {
+              "word": "重なる",
+              "reading": "かさなる",
+              "meaning": "Bertumpuk"
+            }
+          ]
+        },
+        {
+          "kanji": "軽",
+          "meaning": "Ringan",
+          "words": [
+            {
+              "word": "軽い",
+              "reading": "かるい",
+              "meaning": "Ringan"
+            },
+            {
+              "word": "気軽",
+              "reading": "きがる",
+              "meaning": "Ceria"
+            },
+            {
+              "word": "軽食",
+              "reading": "けいしょく",
+              "meaning": "Makanan ringan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "title": "Tata Bahasa 36",
+      "kanji": [
+        {
+          "kanji": "早",
+          "meaning": "Awal (waktu)",
+          "words": [
+            {
+              "word": "早い",
+              "reading": "はやい",
+              "meaning": "Awal"
+            },
+            {
+              "word": "早口",
+              "reading": "はやくち",
+              "meaning": "Bicara cepat"
+            },
+            {
+              "word": "早朝",
+              "reading": "そうちょう",
+              "meaning": "Pagi buta"
+            }
+          ]
+        },
+        {
+          "kanji": "速",
+          "meaning": "Cepat",
+          "words": [
+            {
+              "word": "速い",
+              "reading": "はやい",
+              "meaning": "Cepat"
+            },
+            {
+              "word": "高速",
+              "reading": "こうそく",
+              "meaning": "Kecepatan tinggi"
+            },
+            {
+              "word": "早速",
+              "reading": "さっそく",
+              "meaning": "Segera"
+            }
+          ]
+        },
+        {
+          "kanji": "遅",
+          "meaning": "Lambat, pelan",
+          "words": [
+            {
+              "word": "遅刻",
+              "reading": "ちこく",
+              "meaning": "Terlambat"
+            },
+            {
+              "word": "遅延",
+              "reading": "ちえん",
+              "meaning": "Delay"
+            }
+          ]
+        },
+        {
+          "kanji": "広",
+          "meaning": "Luas",
+          "words": [
+            {
+              "word": "広い",
+              "reading": "ひろい",
+              "meaning": "Luas"
+            },
+            {
+              "word": "広場",
+              "reading": "ひろば",
+              "meaning": "Tempat terbuka, plaza"
+            },
+            {
+              "word": "広告",
+              "reading": "こうこく",
+              "meaning": "Iklan"
+            }
+          ]
+        },
+        {
+          "kanji": "細",
+          "meaning": "Ramping, receh",
+          "words": [
+            {
+              "word": "細い",
+              "reading": "ほそい",
+              "meaning": "Ramping, Tipis"
+            },
+            {
+              "word": "細かい",
+              "reading": "こまかい",
+              "meaning": "Kecil, receh"
+            },
+            {
+              "word": "詳細",
+              "reading": "しょうさい",
+              "meaning": "Detail"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "title": "Tata Bahasa 37",
+      "kanji": [
+        {
+          "kanji": "太",
+          "meaning": "Gemuk, menggemuk",
+          "words": [
+            {
+              "word": "太い",
+              "reading": "ふとい",
+              "meaning": "Gemuk"
+            },
+            {
+              "word": "太る",
+              "reading": "ふとる",
+              "meaning": "Menggemuk"
+            },
+            {
+              "word": "太陽",
+              "reading": "たいよう",
+              "meaning": "Matahari"
+            }
+          ]
+        },
+        {
+          "kanji": "暑",
+          "meaning": "Panas (cuaca)",
+          "words": [
+            {
+              "word": "暑い",
+              "reading": "あつい",
+              "meaning": "Panas"
+            },
+            {
+              "word": "蒸し暑い",
+              "reading": "むしあつい",
+              "meaning": "Panas lembab"
+            }
+          ]
+        },
+        {
+          "kanji": "寒",
+          "meaning": "Dingin",
+          "words": [
+            {
+              "word": "寒い",
+              "reading": "さむい",
+              "meaning": "Dingin"
+            },
+            {
+              "word": "寒気",
+              "reading": "さむけ",
+              "meaning": "Menggigil"
+            },
+            {
+              "word": "寒風",
+              "reading": "かんぷう",
+              "meaning": "Angin dingin"
+            }
+          ]
+        },
+        {
+          "kanji": "低",
+          "meaning": "Rendah",
+          "words": [
+            {
+              "word": "低い",
+              "reading": "ひくい",
+              "meaning": "Pendek, Rendah"
+            },
+            {
+              "word": "最低",
+              "reading": "さいてい",
+              "meaning": "Minimal, Terendah"
+            }
+          ]
+        },
+        {
+          "kanji": "短",
+          "meaning": "Pendek",
+          "words": [
+            {
+              "word": "短い",
+              "reading": "みじかい",
+              "meaning": "Pendek"
+            },
+            {
+              "word": "短期",
+              "reading": "たんき",
+              "meaning": "Jangka pendek"
+            },
+            {
+              "word": "短所",
+              "reading": "たんしょ",
+              "meaning": "Kelemahan (kekurangan)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "title": "Tata Bahasa 38",
+      "kanji": [
+        {
+          "kanji": "弱",
+          "meaning": "Lemah, Rapuh",
+          "words": [
+            {
+              "word": "弱い",
+              "reading": "よわい",
+              "meaning": "Lemah"
+            },
+            {
+              "word": "弱点",
+              "reading": "じゃくてん",
+              "meaning": "Kelemahan"
+            },
+            {
+              "word": "弱虫",
+              "reading": "よわむし",
+              "meaning": "Orang lemah"
+            }
+          ]
+        },
+        {
+          "kanji": "若",
+          "meaning": "Muda",
+          "words": [
+            {
+              "word": "若い",
+              "reading": "わかい",
+              "meaning": "Muda"
+            },
+            {
+              "word": "若年",
+              "reading": "じゃくねん",
+              "meaning": "Pemuda"
+            },
+            {
+              "word": "若者",
+              "reading": "わかもの",
+              "meaning": "Remaja"
+            }
+          ]
+        },
+        {
+          "kanji": "静",
+          "meaning": "Sunyi",
+          "words": [
+            {
+              "word": "静か",
+              "reading": "しずか",
+              "meaning": "Sunyi"
+            },
+            {
+              "word": "冷静",
+              "reading": "れいせい",
+              "meaning": "Tenang (calm)"
+            },
+            {
+              "word": "安静",
+              "reading": "あんせい",
+              "meaning": "Istirahat"
+            }
+          ]
+        },
+        {
+          "kanji": "有",
+          "meaning": "Ada, punya",
+          "words": [
+            {
+              "word": "有る",
+              "reading": "ある",
+              "meaning": "Ada, Punya"
+            },
+            {
+              "word": "有名",
+              "reading": "ゆうめい",
+              "meaning": "Terkenal"
+            },
+            {
+              "word": "有利",
+              "reading": "ゆうり",
+              "meaning": "Unggul"
+            }
+          ]
+        },
+        {
+          "kanji": "心",
+          "meaning": "Pikiran, Perasaan, Jantung",
+          "words": [
+            {
+              "word": "心",
+              "reading": "こころ",
+              "meaning": "Hati"
+            },
+            {
+              "word": "心配",
+              "reading": "しんぱい",
+              "meaning": "Khawatir"
+            },
+            {
+              "word": "安心",
+              "reading": "あんしん",
+              "meaning": "Lega"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "title": "Tata Bahasa 39",
+      "kanji": [
+        {
+          "kanji": "同",
+          "meaning": "Sama",
+          "words": [
+            {
+              "word": "同じ",
+              "reading": "おなじ",
+              "meaning": "Sama"
+            },
+            {
+              "word": "同僚",
+              "reading": "どうりょう",
+              "meaning": "Kolega (teman kerja)"
+            },
+            {
+              "word": "同い年",
+              "reading": "おないどし",
+              "meaning": "Seumuran"
+            }
+          ]
+        },
+        {
+          "kanji": "便",
+          "meaning": "Kenyamanan",
+          "words": [
+            {
+              "word": "便り",
+              "reading": "たより",
+              "meaning": "Berita"
+            },
+            {
+              "word": "便利",
+              "reading": "べんり",
+              "meaning": "Praktis"
+            },
+            {
+              "word": "郵便局",
+              "reading": "ゆうびんきょく",
+              "meaning": "Kantor pos"
+            }
+          ]
+        },
+        {
+          "kanji": "利",
+          "meaning": "Efektif, menguntungkan",
+          "words": [
+            {
+              "word": "利益",
+              "reading": "りえき",
+              "meaning": "Keuntungan/profit"
+            },
+            {
+              "word": "便利",
+              "reading": "べんり",
+              "meaning": "Praktis"
+            },
+            {
+              "word": "利用",
+              "reading": "りよう",
+              "meaning": "Menggunakan/Memanfaatkan"
+            }
+          ]
+        },
+        {
+          "kanji": "親",
+          "meaning": "Orang tua, akrab",
+          "words": [
+            {
+              "word": "親",
+              "reading": "おや",
+              "meaning": "Orang tua"
+            },
+            {
+              "word": "親しい",
+              "reading": "したしい",
+              "meaning": "Akrab"
+            },
+            {
+              "word": "親友",
+              "reading": "しんゆう",
+              "meaning": "Sahabat"
+            }
+          ]
+        },
+        {
+          "kanji": "切",
+          "meaning": "Potong",
+          "words": [
+            {
+              "word": "切る",
+              "reading": "きる",
+              "meaning": "Potong"
+            },
+            {
+              "word": "親切",
+              "reading": "しんせつ",
+              "meaning": "Baik hati"
+            },
+            {
+              "word": "大切",
+              "reading": "たいせつ",
+              "meaning": "Penting"
+            }
+          ]
+        },
+        {
+          "kanji": "不",
+          "meaning": "Tidak",
+          "words": [
+            {
+              "word": "不便",
+              "reading": "ふべん",
+              "meaning": "Tidak praktis"
+            },
+            {
+              "word": "不安",
+              "reading": "ふあん",
+              "meaning": "Tidak tenang (Cemas)"
+            },
+            {
+              "word": "不幸",
+              "reading": "ふこう",
+              "meaning": "Tidak bahagia"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

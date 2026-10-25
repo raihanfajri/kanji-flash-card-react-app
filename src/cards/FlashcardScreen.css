@@ -1,0 +1,137 @@
+.flashcards {
+  display: flex;
+  flex-direction: column;
+  gap: calc(var(--space) * 2);
+  min-height: calc(100svh - env(safe-area-inset-top) - env(safe-area-inset-bottom));
+  padding: calc(var(--space) * 2) var(--gutter) calc(var(--space) * 3);
+  box-sizing: border-box;
+}
+
+.flashcards__bar {
+  display: flex;
+  gap: var(--space);
+}
+
+.flashcards__lesson {
+  flex: 1;
+}
+
+.flashcards__lesson select,
+.flashcards__shuffle,
+.flashcards__nav button {
+  width: 100%;
+  padding: 0 calc(var(--space) * 2);
+  border: 1px solid var(--border);
+  border-radius: 24px;
+  background: var(--surface);
+  color: var(--text-h);
+  font: inherit;
+  font-weight: 600;
+}
+
+.flashcards__shuffle {
+  width: auto;
+}
+
+.flashcards__shuffle[aria-pressed='true'] {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: var(--on-accent);
+}
+
+.flashcards__count {
+  margin: 0;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+
+.card {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: calc(var(--space) * 2);
+  padding: calc(var(--space) * 3) calc(var(--space) * 2);
+  border: 1px solid var(--border);
+  border-radius: 24px;
+  background: var(--surface);
+  text-align: center;
+  /* The card handles horizontal swipes itself; vertical scrolling stays native. */
+  touch-action: pan-y;
+  user-select: none;
+}
+
+.card p {
+  margin: 0;
+}
+
+.card__kanji {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: baseline;
+  gap: 0 var(--space);
+  color: var(--text);
+}
+
+.card__kanji [lang='ja'] {
+  color: var(--accent);
+  font-family: var(--ja);
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.card__lesson {
+  flex-basis: 100%;
+  font-size: 0.875rem;
+}
+
+.card__word {
+  color: var(--text-h);
+  font-family: var(--ja);
+  font-size: clamp(3rem, 18vw, 5.5rem);
+  font-weight: 700;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+}
+
+.card__word rt {
+  color: var(--accent);
+  font-size: 0.32em;
+  font-weight: 500;
+}
+
+.card__reading {
+  color: var(--text);
+  font-family: var(--ja);
+  font-size: 1.25rem;
+}
+
+.card__meaning {
+  color: var(--text-h);
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+/* Thumb zone: the large Previous / Next buttons sit at the bottom. */
+.flashcards__nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space);
+}
+
+.flashcards__nav button {
+  min-height: 56px;
+}
+
+.flashcards__nav .flashcards__next {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: var(--on-accent);
+}
+
+.flashcards :focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 2px;
+}
